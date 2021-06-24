@@ -1,3 +1,14 @@
 * {
     margin: 0;
 }
+
+#foto {
+    max-width:980px; 
+    width: 95%; 
+    
+}
+
+#diario{
+    display: flex; 
+    justify-content: center;
+}
